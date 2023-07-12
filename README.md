@@ -8,6 +8,7 @@
 ####             displays the Olympic logo.
 ------------------------------------------------------------------------------
 ####   ChangeLog:
-####   Who:      Nhi Nguyen            Date:     Feb 16, 2023
+####   Who:      Nhi Nguyen            
+####   Date:     Feb 16, 2023
 ####   Desc.:    This is the original version of the code.  
 ------------------------------------------------------------------------------
