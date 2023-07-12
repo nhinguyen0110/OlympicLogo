@@ -1,6 +1,6 @@
 # OlympicLogo
 ------------------------------------------------------------------------------
-####   Name:     NhiNguyen_IS221_Ch3_PP3_11
+####   Name:     OlympicLogo
 ####   Author:   Nhi Nguyen
 ####   Date:     Feb 16, 2023
 ####   Language: Java
