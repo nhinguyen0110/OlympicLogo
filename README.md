@@ -5,7 +5,7 @@
 ####   Date:     Feb 16, 2023
 ####   Language: Java
 ####   Purpose:  The purpose of this program is to write a JavaFX application that
-             displays the Olympic logo.
+####             displays the Olympic logo.
 ------------------------------------------------------------------------------
 ####   ChangeLog:
 ####   Who:      Nhi Nguyen            Date:     Feb 16, 2023
